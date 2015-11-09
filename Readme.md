@@ -29,6 +29,17 @@ Notes on things I learned & snippets of code that will make my life easier
 // how do I print to the console again?
 console.log("Hello wolrd")
 ```
+### How to write if statement
+
+```javascript
+// how do I write if statement?
+if myNumber > 6{
+  console.log("Hello");
+}
+else{
+  console.log("Bye bye");
+}
+```
 
 ### A note about something else
 add more here...
