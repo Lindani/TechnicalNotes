@@ -1,4 +1,4 @@
-# My Technical Notes
+# Lindani's Technical Notes
 
 ## Workshops
 
