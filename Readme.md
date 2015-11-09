@@ -52,8 +52,15 @@ describe("In the ferry", function(){
 		//assemble
 		//act
 		//assert
-		assert.eqaul("car", "car");
+		assert.eqaul("car", "car"); //Passing test
 	});
+	
+	it("I should be able to board people", function(){
+        //assemble
+        //act
+        //assert
+        assert.equal("car", "people"); //Failing test
+    });
 });
 
 ```
