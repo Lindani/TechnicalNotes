@@ -31,14 +31,12 @@ console.log("Hello wolrd")
 ```
 ### How to write if statement
 
-```javascript
-// how do I write if statement?
-if myNumber > 6{
-  console.log("Hello");
-}
-else{
-  console.log("Bye bye");
-}
+```python
+// how do I write if statement in python?
+if myNumber > 6:
+  print "Hello"
+else:
+  print "Bye bye"
 ```
 
 ### A note about something else
