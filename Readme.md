@@ -25,9 +25,9 @@ Notes on things I learned & snippets of code that will make my life easier
 
 ### How to print a string to the console
 
-```javascript
-// how do I print to the console again?
-console.log("Hello wolrd")
+```python
+# how do I print to the console again?
+print "Hello wolrd"
 ```
 ### How to write if statement
 
