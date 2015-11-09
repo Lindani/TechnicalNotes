@@ -38,6 +38,25 @@ if myNumber > 6:
 else:
   print "Bye bye"
 ```
+### How to test a project using Mocha
+
+```javascript
+In my Projects folder create a <folder-name> folder, then create test folder and run mocha inside the 
+
+Here is an example of how test code should be inside the file:
+
+var assert = require("assert");
+
+describe("In the ferry", function(){
+	it("I should be able to create cars", function(){
+		//assemble
+		//act
+		//assert
+		assert.eqaul("car", "car");
+	});
+});
+
+```
 
 ### A note about something else
 add more here...
