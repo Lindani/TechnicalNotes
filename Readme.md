@@ -42,7 +42,10 @@ else:
 
 ```javascript
 In my Projects folder create a <folder-name> folder, then create test folder and run mocha inside the <folder-name> folder
-
+* Create a folder inside your projects folder
+* Create a test script file inside your created folder
+* Have code inside test script file
+* Run Mocha using the terminal
 Here is an example of how test code should be inside the file test.js file:
 
 var assert = require("assert");
