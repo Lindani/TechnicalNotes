@@ -32,7 +32,7 @@ console.log("Hello wolrd")
 ### How to write if statement
 
 ```python
-// how do I write if statement in python?
+"""how do I write if statement in python?"""
 if myNumber > 6:
   print "Hello"
 else:
