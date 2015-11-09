@@ -41,9 +41,9 @@ else:
 ### How to test a project using Mocha
 
 ```javascript
-In my Projects folder create a <folder-name> folder, then create test folder and run mocha inside the 
+In my Projects folder create a <folder-name> folder, then create test folder and run mocha inside the <folder-name> folder
 
-Here is an example of how test code should be inside the file:
+Here is an example of how test code should be inside the file test.js file:
 
 var assert = require("assert");
 
