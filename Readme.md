@@ -7,6 +7,9 @@
 * Useful algoritms using functions (lodash)
 * How does a web application work?
 * Others?
+* clearer instructions 
+* Making sure the problem is understood before coding
+
 
 ## Keep updated
 
