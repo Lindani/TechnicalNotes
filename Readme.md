@@ -44,5 +44,5 @@ add more here...
 
 ### If things get to long...
 
-* [Todo something useful](notes/lindani.md) A short description here
-* [Create a basic Express app](notes/lindani.md) How to get going with express
+* [Todo something useful](lindani.md) A short description here
+* [Create a basic Express app](lindani.md) How to get going with express
