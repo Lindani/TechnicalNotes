@@ -1,4 +1,8 @@
+
 # Lindani's Technical Notes
+=======
+
+
 
 ## Workshops
 
@@ -68,6 +72,13 @@ describe("In the ferry", function(){
 
 ```
 
+### How to do...?
+
+```javascript
+// how do to do
+```
+
+
 ### A note about something else
 add more here...
 
@@ -76,4 +87,5 @@ add more here...
 * [Todo something useful](notes/my_file.md) A short description here
 * [Create a basic Express app](notes/my_file.md) How to get going with express
 * [Lindani's](Lindani.md) notes to add later on 
+
 
